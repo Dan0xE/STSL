@@ -4,7 +4,7 @@ TCP Project
 # Struct
 
 > `Client:` Client used to communicate with the Server <br />
-> `Server:`' Server Used to recieve Client messages <br />
+> `Server:` Server Used to recieve Client messages <br />
 
 `Limitation: Can only connect to one Client`
 
