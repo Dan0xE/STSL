@@ -1,5 +1,5 @@
 # STSL
-TCP Project
+Local TCP Project
 
 # Struct
 
